@@ -1,0 +1,327 @@
+[
+    {
+        "id": "user_026",
+        "name": "Rishab Jain",
+        "age": 32,
+        "contact": "7829746284",
+        "address": "Agra, Hijdo Bali Gali",
+        "gender": "Female",
+        "marital_status": "Widowed",
+        "predictions": {
+            "Diabetes": {
+                "inputs": {
+                    "Age": "32",
+                    "BMI": "25",
+                    "Blood Pressure": "120",
+                    "Diabetes Pedigree Function": "0.5",
+                    "Gender": "Female",
+                    "Glucose": "100",
+                    "Insulin": "79",
+                    "Pregnancies": 0.0,
+                    "Skin Thickness": "20"
+                },
+                "prob": 1.5328093700819267
+            },
+            "Fever": {
+                "inputs": {
+                    "Age": 32.0,
+                    "Air Quality Index": 50.0,
+                    "Alcohol Consumption": "No",
+                    "Allergies": "No",
+                    "BMI": 25.0,
+                    "Blood Pressure": "Normal",
+                    "Body Ache": "No",
+                    "Chronic Conditions": "No",
+                    "Diet Type": "Vegan",
+                    "Fatigue": "No",
+                    "Gender": "Female",
+                    "Headache": "No",
+                    "Heart Rate": 70.0,
+                    "Humidity (%)": 50.0,
+                    "Physical Activity": "Sedentary",
+                    "Previous Medication": "None",
+                    "Smoking History": "No",
+                    "Temperature (C)": 36.5
+                },
+                "prob": 26.991904761904763,
+                "severity": "Normal"
+            },
+            "Heart Disease": {
+                "inputs": {
+                    "Age": "32",
+                    "Chest Pain Type": 1,
+                    "Cholesterol": "220",
+                    "Exercise Angina": 0,
+                    "Fasting BS > 120?": 0,
+                    "Major Vessels (ca)": "0",
+                    "Max Heart Rate": "150",
+                    "Resting BP": "130",
+                    "Resting ECG": "0",
+                    "ST Depression": "1.0",
+                    "Sex": 0,
+                    "Slope of ST": 1,
+                    "Thal": 3
+                },
+                "prob": 0.08976296335458755
+            },
+            "Anemia": {
+                "prob": 5.0,
+                "inputs": {
+                    "Gender": "Female",
+                    "RBC": "5",
+                    "Hemoglobin (Hb)": "14",
+                    "Hematocrit (HCT)": "42",
+                    "MCV": "90",
+                    "MCH": "30",
+                    "MCHC": "34",
+                    "WBC": "7",
+                    "Platelets": "250",
+                    "RDW": "13.5",
+                    "PDW": "12",
+                    "PCT": "0.22",
+                    "Lymphocytes": "30",
+                    "Neutrophils %": "60",
+                    "Neutrophils #": "4.2"
+                },
+                "severity": "Healthy"
+            }
+        },
+        "created_at": "25-Nov-2025 21:10",
+        "last_updated": "2025-11-25 21:10:57"
+    },
+    {
+        "id": "user_027",
+        "name": "Prince Yadav",
+        "age": 31,
+        "contact": "07310647227",
+        "address": "TMU Moradabad , Security Checkpost\nSecurity Checkpost",
+        "gender": "Male",
+        "marital_status": "Married",
+        "predictions": {},
+        "created_at": "25-Nov-2025 21:13",
+        "last_updated": "25-Nov-2025 21:13"
+    },
+    {
+        "id": "user_084",
+        "name": "Asim Husain",
+        "age": 21,
+        "contact": "07310647227",
+        "address": "TMU Moradabad , Security Checkpost\nSecurity Checkpost",
+        "gender": "Male",
+        "marital_status": "Married",
+        "predictions": {},
+        "created_at": "03-Dec-2025 18:24",
+        "last_updated": "03-Dec-2025 18:24"
+    },
+    {
+        "id": "user_085",
+        "name": "Asim Husain",
+        "age": 21,
+        "contact": "07310647227",
+        "address": "TMU Moradabad , Security Checkpost\nSecurity Checkpost",
+        "gender": "Male",
+        "marital_status": "Married",
+        "predictions": {
+            "Heart Disease": {
+                "prob": 1.3455920219421387,
+                "inputs": {
+                    "Sex": 1,
+                    "Age": "21",
+                    "Resting BP": "130",
+                    "Cholesterol": "220",
+                    "Chest Pain Type": 1,
+                    "Fasting BS > 120?": 0,
+                    "Resting ECG": "0",
+                    "Max Heart Rate": "150",
+                    "Exercise Angina": 0,
+                    "ST Depression": "1.0",
+                    "Slope of ST": 1,
+                    "Major Vessels (ca)": "0",
+                    "Thal": 3
+                }
+            }
+        },
+        "created_at": "03-Dec-2025 18:43",
+        "last_updated": "2025-12-03 18:44:07"
+    },
+    {
+        "id": "user_086",
+        "name": "Asim Husain",
+        "age": 21,
+        "contact": "07310647227",
+        "address": "TMU Moradabad , Security Checkpost\nSecurity Checkpost",
+        "gender": "Female",
+        "marital_status": "Married",
+        "predictions": {
+            "Diabetes": {
+                "prob": 1.3581908595328507,
+                "inputs": {
+                    "Gender": "Female",
+                    "Age": "21",
+                    "BMI": "25",
+                    "Glucose": "100",
+                    "Blood Pressure": "120",
+                    "Pregnancies": 0.0,
+                    "Skin Thickness": "20",
+                    "Insulin": "79",
+                    "Diabetes Pedigree Function": "0.5"
+                }
+            }
+        },
+        "created_at": "03-Dec-2025 19:08",
+        "last_updated": "2025-12-03 19:08:19"
+    },
+    {
+        "id": "user_087",
+        "name": "Asim Husain",
+        "age": 21,
+        "contact": "07310647227",
+        "address": "TMU Moradabad , Security Checkpost\nSecurity Checkpost",
+        "gender": "Female",
+        "marital_status": "Married",
+        "predictions": {},
+        "created_at": "03-Dec-2025 19:13",
+        "last_updated": "03-Dec-2025 19:13"
+    },
+    {
+        "id": "user_088",
+        "name": "Asim Husain",
+        "age": 21,
+        "contact": "07310647227",
+        "address": "TMU Moradabad , Security Checkpost\nSecurity Checkpost",
+        "gender": "Male",
+        "marital_status": "Married",
+        "predictions": {
+            "Diabetes": {
+                "prob": 1.3581908595328507,
+                "inputs": {
+                    "Gender": "Male",
+                    "Age": "21",
+                    "BMI": "25",
+                    "Glucose": "100",
+                    "Blood Pressure": "120",
+                    "Pregnancies": 0.0,
+                    "Skin Thickness": "20",
+                    "Insulin": "79",
+                    "Diabetes Pedigree Function": "0.5"
+                }
+            }
+        },
+        "created_at": "03-Dec-2025 19:14",
+        "last_updated": "2025-12-03 19:15:10"
+    },
+    {
+        "id": "user_089",
+        "name": "Asim Husain",
+        "age": 21,
+        "contact": "07310647227",
+        "address": "TMU Moradabad , Security Checkpost\nSecurity Checkpost",
+        "gender": "Male",
+        "marital_status": "Married",
+        "predictions": {
+            "Anemia": {
+                "prob": 100.0,
+                "inputs": {
+                    "Gender": "Female",
+                    "RBC": "3.1",
+                    "Hemoglobin (Hb)": "8.6",
+                    "Hematocrit (HCT)": "28",
+                    "MCV": "74",
+                    "MCH": "24",
+                    "MCHC": "30",
+                    "WBC": "10.8",
+                    "Platelets": "420",
+                    "RDW": "17.5",
+                    "PDW": "16.2",
+                    "PCT": "0.12",
+                    "Lymphocytes": "20",
+                    "Neutrophils %": "72",
+                    "Neutrophils #": "6.5"
+                },
+                "severity": "Iron deficiency anemia"
+            },
+            "Diabetes": {
+                "inputs": {
+                    "Age": "48",
+                    "BMI": "34.2",
+                    "Blood Pressure": "145",
+                    "Diabetes Pedigree Function": "0.92",
+                    "Gender": "Female",
+                    "Glucose": "185",
+                    "Insulin": "210",
+                    "Pregnancies": 4.0,
+                    "Skin Thickness": "35"
+                },
+                "prob": 91.2906292257643
+            },
+            "Fever": {
+                "inputs": {
+                    "Age": 35.0,
+                    "Air Quality Index": 110.0,
+                    "Alcohol Consumption": "Yes",
+                    "Allergies": "Yes",
+                    "BMI": 27.5,
+                    "Blood Pressure": "High",
+                    "Body Ache": "Yes",
+                    "Chronic Conditions": "Yes",
+                    "Diet Type": "Non-Vegetarian",
+                    "Fatigue": "Yes",
+                    "Gender": "Male",
+                    "Headache": "Yes",
+                    "Heart Rate": 105.0,
+                    "Humidity (%)": 75.0,
+                    "Physical Activity": "Sedentary",
+                    "Previous Medication": "Other",
+                    "Smoking History": "Yes",
+                    "Temperature (C)": 39.5
+                },
+                "prob": 78.25383838383837,
+                "severity": "High Fever"
+            },
+            "Heart Disease": {
+                "inputs": {
+                    "Age": "62",
+                    "Chest Pain Type": 4,
+                    "Cholesterol": "280",
+                    "Exercise Angina": 1,
+                    "Fasting BS > 120?": 1,
+                    "Major Vessels (ca)": "2",
+                    "Max Heart Rate": "120",
+                    "Resting BP": "165",
+                    "Resting ECG": "2",
+                    "ST Depression": "2.6",
+                    "Sex": 0,
+                    "Slope of ST": 3,
+                    "Thal": 7
+                },
+                "prob": 99.9867172241211
+            }
+        },
+        "created_at": "03-Dec-2025 19:41",
+        "last_updated": "2025-12-03 19:43:25"
+    },
+    {
+        "id": "user_090",
+        "name": "Asim Husain",
+        "age": 21,
+        "contact": "07310647227",
+        "address": "TMU Moradabad , Security Checkpost\nSecurity Checkpost",
+        "gender": "Male",
+        "marital_status": "Married",
+        "predictions": {},
+        "created_at": "03-Dec-2025 21:47",
+        "last_updated": "03-Dec-2025 21:47"
+    },
+    {
+        "id": "user_091",
+        "name": "Asim Husain",
+        "age": 34,
+        "contact": "07310647227",
+        "address": "TMU Moradabad , Security Checkpost\nSecurity Checkpost",
+        "gender": "Male",
+        "marital_status": "Married",
+        "predictions": {},
+        "created_at": "03-Dec-2025 21:48",
+        "last_updated": "03-Dec-2025 21:48"
+    }
+]
